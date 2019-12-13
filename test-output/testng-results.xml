@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-13T12:27:11 ICT" name="Default suite" finished-at="2019-12-13T12:28:48 ICT" duration-ms="97568">
+    <groups>
+    </groups>
+    <test started-at="2019-12-13T12:27:11 ICT" name="Default test" finished-at="2019-12-13T12:28:48 ICT" duration-ms="97568">
+      <class name="firefox.TestSetRoles">
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:firefox.TestSetRoles@3c87521]" started-at="2019-12-13T12:27:11 ICT" name="launchdriver" finished-at="2019-12-13T12:27:23 ICT" duration-ms="12098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="setRolesFlow()[pri:0, instance:firefox.TestSetRoles@3c87521]" started-at="2019-12-13T12:27:23 ICT" name="setRolesFlow" finished-at="2019-12-13T12:28:47 ICT" duration-ms="84176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRolesFlow -->
+        <test-method is-config="true" signature="quitBrower()[pri:0, instance:firefox.TestSetRoles@3c87521]" started-at="2019-12-13T12:28:47 ICT" name="quitBrower" finished-at="2019-12-13T12:28:48 ICT" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrower -->
+      </class> <!-- firefox.TestSetRoles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
